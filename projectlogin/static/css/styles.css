@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
+.container{background-color: rgba(255, 255, 255, 0.858); /* Semi-transparent white */
+    padding: 3%;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
+    max-width: 400px;
+    margin: 10% auto;
+    text-align: center;
+}
+.login{
+    color: rgb(0, 0, 0); 
+    font-weight: 900; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.user{
+    color: rgb(50, 50, 50); 
+    font-weight: 900; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
